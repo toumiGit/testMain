@@ -27,11 +27,11 @@
 	<version>2.0.1</version>
 </dependency>
 
-        <dependency>
-<groupId>com.fianet.sigmaplus.core.sofinco</groupId>
-	<artifactId>sofinco-ws-client</artifactId>
-            <version>3.16-SNAPSHOT</version>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>com.fianet.sigmaplus.core.sofinco</groupId>-->
+            <!--<artifactId>sofinco-ws-client</artifactId>-->
+            <!--<version>3.16-SNAPSHOT</version>-->
+        <!--</dependency>-->
 
     </dependencies>
 </project>
